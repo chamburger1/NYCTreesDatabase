@@ -6,5 +6,9 @@ Uses an AVL tree to store the tree nodes, which are each 1 tree planted in NYC. 
 
 Skips trees in data set. Based on data set at https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35/data
 
+Compile with make command.  Executable: NYCTreesDatabase
+
+Run ./NYCTreesDatabase  data.txt
+
 
 

@@ -5,7 +5,7 @@ CFLAGS = -c -Wall
 # Edit the following SOURCES variable to include all of the .cpp files to compile
 SOURCES = main.cpp tree.cpp avl.cpp tree_collection.cpp 
 OBJECTS = $(SOURCES:.cpp=.o)
-EXECUTABLE_NAME = assignment2
+EXECUTABLE_NAME = NYCTreesDatabase
 
 all: $(EXECUTABLE_NAME)
 
